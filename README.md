@@ -7,7 +7,7 @@
 <p>
   Hi 👋, I'm Gabriel! an Análise e Desenvolvimento de Sistemas student from Brazil .
 
-  - ✔ I am currently studying in the last semester of ADS at ETEC-SP 
+  - ✔ I currently finished the ADS course at ETEC-SP 
 
   - 🔭 I'm looking for my first job opportunity. My dream is to one day work in game development and AI.
 </p>
