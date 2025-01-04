@@ -7,7 +7,7 @@
 <p>
   Hi 👋, I'm Gabriel! an Análise e Desenvolvimento de Sistemas student from Brazil .
 
-  - 📍 Systems Development Technician Student 
+  - 📍 Systems Development Technician  
 
   - 🔭 I'm looking for my first job opportunity. My dream is to one day work in game development and AI.
 </p>
