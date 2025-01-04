@@ -10,6 +10,7 @@
   - 📍 Systems Development Technician  
 
   - 🔭 I'm looking for my first job opportunity. My dream is to one day work in game development and AI.
+  - 📫 How to reach me: gabrielsouza7155@gmail.com
 </p>
 <!-- Dropdown -->
 <details>
