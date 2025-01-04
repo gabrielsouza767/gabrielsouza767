@@ -5,7 +5,7 @@
 </div>
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Gabriel! an Análise e Desenvolvimento de Sistemas student from Brazil .
+  Hi 👋, I'm Gabriel! One full stack developer living in Brazil .
 
   - 📍 Systems Development Technician  
 
