@@ -7,7 +7,8 @@
 <p>
   Hi 👋, I'm Gabriel! One full stack developer living in Brazil .
 
-  - 📍 Systems Development Technician  
+  - 📍 Systems Development Technician
+  - 📍 Computer science student at PUC-Minas, 1st period 
 
   - 🔭 I'm looking for my first job opportunity. My dream is to one day work in game development and AI.
   - 📫 How to reach me: gabrielsouza7155@gmail.com
@@ -16,7 +17,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 19 years old, currently living in Brazil. - ⚡I like studying, reading a good book, as well as watching movies and playing games! I believe that our dreams can only be realized through knowledge and dedication. 
+  - 💬 I am 20 years old, currently living in Brazil. - ⚡I like studying, reading a good book, as well as watching movies and playing games! I believe that our dreams can only be realized through knowledge and dedication. 
 </details>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsouza767&show_icons=true&theme=gruvbox)
