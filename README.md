@@ -10,7 +10,7 @@
   - 📍 Systems Development Technician
   - 📍 Computer science student at PUC-Minas, 1st period 
 
-  - 🔭 I'm looking for my first job opportunity. My dream is to one day work in game development and AI.
+  - 🔭 I'm looking for my first job opportunity. My dream is to one day work in cybersecurity and AI.
   - 📫 How to reach me: gabrielsouza7155@gmail.com
 </p>
 <!-- Dropdown -->
