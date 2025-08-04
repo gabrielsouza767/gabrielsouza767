@@ -8,7 +8,7 @@
   Hi 👋, I'm Gabriel! One full stack developer living in Brazil .
 
   - 📍 Systems Development Technician
-  - 📍 Computer science student at PUC-Minas, 1st period 
+  - 📍 Computer science student at PUC-Minas, 2nd period 
 
   - 🔭 I'm looking for my first job opportunity. My dream is to one day work in cybersecurity and AI.
   - 📫 How to reach me: gabrielsouza7155@gmail.com
