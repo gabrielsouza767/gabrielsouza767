@@ -6,7 +6,7 @@
 
 ## 👋 About Me  
 
-Hi! I'm **Gabriel**, a Systems Development Technician and **Computer Science student at PUC Minas (2nd semester)**.  
+Hi! I'm **Gabriel**, a Systems Development Technician and **Computer Science student at PUC Minas (3rd semester)**.  
 I love studying low-level concepts, data structures, and building projects in C, Python and C#.  
 
 I'm currently looking for my **first internship opportunity** — especially in development, security, or research areas.
