@@ -1,36 +1,37 @@
-<!-- Title -->
-<h1 align="center">Gabriel Oliveira — Computer Science Student</h1>
-<h3 align="center">Full Stack Developer • Cybersecurity & AI Enthusiast</h3>
+<!-- Título -->
+<h1 align="center">Gabriel Oliveira — Estudante de Ciência da Computação</h1>
+<h3 align="center">Desenvolvedor Full Stack • Entusiasta em Cibersegurança & IA</h3>
 
 ---
 
-## 👋 About Me  
+## 👋 Sobre Mim  
 
-Hi! I'm **Gabriel**, a Systems Development Technician and **Computer Science student at PUC Minas (3rd semester)**.  
-I love studying low-level concepts, data structures, and building projects in C, Python and C#.  
+Olá! Eu sou **Gabriel**, Técnico em Desenvolvimento de Sistemas e **estudante de Ciência da Computação na PUC Minas (3º período)**.  
+Gosto muito de estudar conceitos de baixo nível, estruturas de dados e desenvolver projetos em C, Python e C#.  
 
-I'm currently looking for my **first internship opportunity** — especially in development, security, or research areas.
+Atualmente, estou em busca da minha **primeira oportunidade de estágio** — especialmente nas áreas de desenvolvimento, segurança ou pesquisa.
 
-📌 **Focused on:** Algorithms, C programming, graphics, Raylib, cybersecurity, and AI  
-📫 **Contact:** gabrielsouza7155@gmail.com  
+📌 **Foco em:** Algoritmos, programação em C, gráficos, Raylib, cibersegurança e inteligência artificial  
+📫 **Contato:** gabrielsouza7155@gmail.com  
 
 ---
 
-## 🧩 More About Me
+## 🧩 Mais Sobre Mim
 
 <details>
-<summary>Click to expand</summary>
+<summary>Clique para expandir</summary>
 
-- 🇧🇷 20 years old, living in Brazil  
-- 📚 Passionate about learning and deepening technical fundamentals  
-- 🎮 I enjoy games, movies and reading  
-- 🧠 I truly believe that knowledge + consistency = freedom  
+- 🇧🇷 21 anos, moro no Brasil  
+- 📚 Apaixonado por aprender e aprofundar fundamentos técnicos  
+- 🎮 Gosto de jogos, filmes e leitura  
+- 🧠 Acredito de verdade que conhecimento + consistência = liberdade  
 
 </details>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
+
 
 <div align="center">
 
@@ -54,22 +55,22 @@ I'm currently looking for my **first internship opportunity** — especially in 
 </p>
 
 ---
+## 🕹️ Projetos em Destaque
 
-## 🕹️ Featured Projects
+🔹 **Jogo Procedural com C-Graphics** (C + graphics.h)  
+*Jogo 2D interativo de investigação, com navegação por mouse e teclado, arquitetura modularizada e múltiplas cenas.*  
+🔗 *Disponível em meus repositórios*
 
-🔹 **C-Graphics Procedural Game** (C + graphics.h)  
-*Interactive 2D investigation game using mouse navigation, modularized architecture and multiple scenes.*  
-🔗 *Available in my repositories*
+🔹 **Implementações de Estruturas de Dados**  
+Grafos por matriz e lista de adjacências, árvores, listas encadeadas, pilhas, filas, structs e uso completo de ponteiros.
 
-🔹 **Data Structures Implementations**  
-Trees, linked lists, stacks, queues, structs, and full use of pointers.
-
-🔹 **Raylib Snake Game**  
-Classic Snake completely built in C using dynamic lists.
+🔹 **Jogo Snake com Raylib**  
+Snake clássico totalmente desenvolvido em C utilizando listas dinâmicas.
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Snake de Contribuições
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielsouza767/gabrielsouza767/output/github-contribution-grid-snake-dark.svg">
@@ -79,8 +80,9 @@ Classic Snake completely built in C using dynamic lists.
 
 ---
 
-## 🚀 Final Message
+## 🚀 Mensagem Final
 
-I'm constantly evolving and building projects to strengthen my logical thinking and technical foundations.  
-If you're looking for a dedicated student with strong fundamentals and passion for technology — **I'm ready**.
+Estou em constante evolução e sempre desenvolvendo projetos para fortalecer meu raciocínio lógico e meus fundamentos técnicos.  
+Se você está procurando um estudante dedicado, com base sólida e paixão por tecnologia — **estou pronto**.
+
 
