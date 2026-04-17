@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Full+Stack+%E2%80%A2+Entusiasta+em+SLMs+e+LLMs&speed=80&color=00FF00&width=800">
 </p>
+
 ## 👋 Sobre Mim  
 
 Olá! Eu sou **Gabriel**, Técnico em Desenvolvimento de Sistemas e **estudante de Ciência da Computação na PUC Minas (3º período)**.  
