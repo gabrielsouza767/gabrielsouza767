@@ -35,7 +35,7 @@ Atualmente, estou em busca da minha **primeira oportunidade de estágio** — es
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsouza767&show_icons=true&theme=gruvbox) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsouza767&layout=compact&theme=gruvbox)](https://github.com/gabrielsouza767/github-readme-stats)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsouza767&show_icons=true&theme=gruvbox) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsouza767&layout=compact&theme=gruvbox)](https://github.com/gabrielsouza767/github-readme-stats)
 
 </div>
 
