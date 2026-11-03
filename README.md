@@ -11,7 +11,7 @@ Gosto muito de estudar conceitos de baixo nível, estruturas de dados e desenvol
 
 Atualmente, estou em busca da minha **primeira oportunidade de estágio** — especialmente nas áreas de desenvolvimento, segurança ou pesquisa.
 
-📌 **Foco em:** Algoritmos, programação em C, gráficos, Raylib, cibersegurança e inteligência artificial  
+📌 **Foco em:** Algoritmos, programação em C, cibersegurança e inteligência artificial  
 📫 **Contato:** gabrielsouza7155@gmail.com  
 
 ---
